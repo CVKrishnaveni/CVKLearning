@@ -1,0 +1,12 @@
+change 1
+
+ Volume in drive C has no label.
+ Volume Serial Number is 2ED4-6A87
+
+ Directory of C:\Users\IQAC\Desktop\MyProject
+
+05-02-2022  14:34    <DIR>          .
+05-02-2022  14:34    <DIR>          ..
+05-02-2022  14:34                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  174,536,900,608 bytes free
