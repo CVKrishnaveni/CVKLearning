@@ -1,0 +1,11 @@
+Change 1
+ Volume in drive C has no label.
+ Volume Serial Number is 98E1-DBDE
+
+ Directory of C:\Users\user\Desktop\MyProject
+
+02/08/2022  07:36 PM    <DIR>          .
+02/08/2022  07:36 PM    <DIR>          ..
+02/08/2022  07:36 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  43,371,192,320 bytes free
